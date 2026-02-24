@@ -6,8 +6,11 @@ Architecture :
 Windows 11 Host
 └── VMware Workstation
       ├── DC01 (Domain Controller + DNS)
+      
       ├── SRV01 (Hyper-V Host 1)
+      
       ├── SRV02 (Hyper-V Host 2)
+      
       └── STORAGE01 (iSCSI Target Server)
 ..........................................................................      
 Technologies Used:
