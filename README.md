@@ -4,7 +4,9 @@ Enterprise-grade Hyper-V High Availability lab built with nested virtualization.
 Architecture :
 
 Windows 11 Host
+
 └── VMware Workstation
+
       ├── DC01 (Domain Controller + DNS)
       
       ├── SRV01 (Hyper-V Host 1)
